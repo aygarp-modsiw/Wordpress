@@ -1,10 +1,12 @@
 # Wordpress
 
+![Wordpress](https://github.com/pragyaasapkota/Portfolio/raw/master/Images/Wordpress.jpg)
+
 We hear about two similar but different terms – wordpress.com vs wordpress.org. We need to familiarize ourselves with both to spare any confusion between them.
 
-This folder will help you navigate between them individually and you can also checkout the difference between Wordpress.com and Wordpress.org.
+This folder will help you navigate between them individually and you can also check out the difference between Wordpress.com and Wordpress.org.
 
-This is a index for the concepts of wordpress.
+This is an index for the concepts of WordPress.
 
 If you wish to open these in a new tab, Press `CTRL+click`
 
